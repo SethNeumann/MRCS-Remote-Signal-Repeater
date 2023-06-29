@@ -1,10 +1,4 @@
-### How to use this template:
-
-  1. Create a repo using this template, 
-  2. Create your project content using eagle...
-  3. Edit the other text files to describe your project
-  4. git add .
-  5. git commit -m "add to git"
-  6. git tag -a 1.0 -m 1.0
-  7. git push origin 1.0
+I asked Dave F to make me a board using 5mm LEDs to make a "triad" for the end of a controlled siding. This design can be used
+front or back (east or westbound signals) you don't need to stuff all the positions (e.g. only RED and YELLOW for entering Siding). 
+Used 805 resistors
   
